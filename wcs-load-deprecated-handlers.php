@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: WooCommerce Subscriptions Load Deprecation Handlers
- * Plugin URI: https://support.woothemes.com/hc/en-us/articles/205214466
+ * Plugin URI: https://github.com/Prospress/woocommerce-subscriptions-load-deprecation-handlers
  * Description: Load backward compatibility support in Subscriptions 2.1 for hooks deprecated in Subscriptions 2.0.
  * Author: Prospress Inc.
  * Version: 1.0
