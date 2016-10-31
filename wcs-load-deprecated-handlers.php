@@ -7,6 +7,9 @@
  * Version: 1.0
  * Author URI: http://prospress.com
  *
+ * GitHub Plugin URI: Prospress/woocommerce-subscriptions-load-deprecation-handlers
+ * GitHub Branch: master
+ *
  * Copyright 2016 Prospress, Inc.  (email : freedoms@prospress.com)
  *
  * This program is free software: you can redistribute it and/or modify
