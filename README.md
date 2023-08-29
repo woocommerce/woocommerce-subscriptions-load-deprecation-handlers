@@ -1,3 +1,5 @@
+> IMPORTANT: This code is made available in the hope that it will be useful, but without any warranty. See the GNU General Public License for more details. Automattic or WooCommerce support services are also not available to assist with the use of this code.
+
 ## WooCommerce Subscriptions Load Deprecation Handlers
 
 WooCommerce Subscriptions v2.0 deprecated a number of [hooks](https://codex.wordpress.org/Plugin_API/Hooks) after changing the underlying storage and data structure of the subscription object.
